@@ -1,7 +1,9 @@
-# Ceci est un titre
-## Ceci est un sous titre
+# Ceci est un changement 
+## Ceci est un sous titre changé 
 
-je peux mettre des textes en **gras** ou en *italique* comme je veux
+je peux mettre des textes en **gras** ou en *italique* 
+
+gardons le reste comme c'était avant
 
 - Ceci
 - est une liste
